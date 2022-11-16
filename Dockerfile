@@ -22,6 +22,7 @@ ENV REQUIRED_PACKAGES \
   php8-openssl \
   php8-session \
   php8-zip \
+  bash \
   php8-zlib
 
 RUN \
