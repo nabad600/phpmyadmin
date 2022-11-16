@@ -17,7 +17,7 @@ ENV REQUIRED_PACKAGES \
   php8-gd \
   php8-json \
   php8-mbstring \
-  php8-mcrypt \
+  php8-pecl-mcrypt \
   php8-mysqli \
   php8-openssl \
   php8-session \
