@@ -1,5 +1,5 @@
 FROM alpine:3.16
-MAINTAINER Peter Leitzen <peter@leitzen.de>
+LABEL maintainer Naba Das <hello@get-deck.com>
 
 ENV RELEASE_DATE 2022-11-16
 ENV PHPMYADMIN_VERSION 5.2.0
